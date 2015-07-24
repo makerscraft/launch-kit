@@ -9,9 +9,9 @@ An technical overview of all the skills, tools and necessary culture to launch a
 - Explain basics about how internet works, what's HTTP, what's an API
 - Show useful services and tools that entrepreneur can use to activate their landing, automate some processes, prototype their MVP.
 
-- **[keynote]()**
-- **[youtube video]()**
-- **[slideshare link]()**
+**[keynote]()**
+**[youtube video]()**
+**[slideshare link]()**
 
 ## 2 - The 2-hour landing page
 
@@ -24,9 +24,9 @@ Code and design your landing page in only 2 hours ! A very satisfying workshop w
 - Introduce Bootstrap and its grid system
 - Finish with a Mailchimp embed to activate the landing.
 
-- **[keynote]()**
-- **[youtube video]()**
-- **[slideshare link]()**
+**[keynote]()**
+**[youtube video]()**
+**[slideshare link]()**
 
 
 ## 3 - I am loving Git
@@ -37,9 +37,9 @@ TODO seb
 
 TODO seb
 
-- **[keynote]()**
-- **[youtube video]()**
-- **[slideshare link]()**
+**[keynote]()**
+**[youtube video]()**
+**[slideshare link]()**
 
 ## 4 - API
 
@@ -49,9 +49,9 @@ TODO seb
 
 TODO seb
 
-- **[keynote]()**
-- **[youtube video]()**
-- **[slideshare link]()**
+**[keynote]()**
+**[youtube video]()**
+**[slideshare link]()**
 
 ## 5 - Technical workflow
 
@@ -61,6 +61,6 @@ TODO seb
 
 TODO seb
 
-- **[keynote]()**
-- **[youtube video]()**
-- **[slideshare link]()**
+**[keynote]()**
+**[youtube video]()**
+**[slideshare link]()**
