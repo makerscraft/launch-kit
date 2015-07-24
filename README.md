@@ -1,7 +1,7 @@
 ## Set up
 
 - Join us on [Le Wagon's Slack](https://teamwagon.slack.com) and create a channel for your city `#city`.
-- Read [our graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines) and download our [brand assets](https://github.com/lewagon/design/tree/master/guidelines/brand) to win time in the next steps.
+- Read [our graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines) and download our [brand assets](https://github.com/lewagon/design/tree/master/guidelines/brand) to save time in the next steps.
 - Make a pull-request on [Le Wagon website repository](https://github.com/lewagon/www-sinatra) to add your city page (ex: [Paris page](http://www.lewagon.org/paris))
 - When it's done, we'll plug our *application tool* to your city page, and you can start getting candidates right on!
 - Create a meetup group following our [meetup graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines/meetup) (ex: [Le Wagon Paris meetup](http://www.meetup.com/fr/Le-Wagon-Paris-Coding-Station/))
