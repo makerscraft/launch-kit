@@ -33,5 +33,20 @@ Need some stickers to offer at the end of the workshops? some cool wall-sticker?
 
 You have your 20 students for the 1st batch. **Yeahhhhhh!** time for us to add your lead developpers on our pedagogical platforms and explain them all about it.
 
-**B O U M**
+## Dont's
+
+Launching Le Wagon is a matter of **trust** and **shared values**. We should all play as a unique team which will improve the quality of the work in each team.
+
+By collaborating to improve pedagogical contents, graphical assets, communication supports, etc.. we can just create something much bigger.
+
+Of course, you are the business owner, you drive your city, your community, your opportunities, and can experiment things, but collaborating with each other is a core value to be part of Le Wagon.
+
+Here is a list of actions that don't really fit with this value :
+
+- Double-brandings with expressions such as **Le Wagon by ...** or **... by Le Wagon**: if you launch Le Wagon, it's Le Wagon and adding an extra brand is just weakening your communication and blurring the message.
+- Create an **independent landing page**: instead, you should make a pull request to our website city page so that every one can benefit from it. That's our spirit !
+
+
+
+
 
