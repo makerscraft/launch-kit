@@ -1,74 +1,71 @@
-<link rel="stylesheet" href="http//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-
-
 ## 1 - Technical entrepreneurship
 
 An technical overview of all the skills, tools and necessary culture to launch a web product.
 
-**Overview:**
+### Overview
 
 - Detail what a product picth is
 - Introduce the AARRR framework
 - Explain basics about how internet works, what's HTTP, what's an API
 - Show useful services and tools that entrepreneur can use to activate their landing, automate some processes, prototype their MVP.
 
-**[keynote]()**
-**[youtube video]()**
-**[slideshare link]()**
+### Resources
 
-
-
-<i class="fa fa-heart"></i>
+- [keynote]()
+- [youtube video]()
+- [slideshare]()
 
 ## 2 - The 2-hour landing page
 
 Code and design your landing page in only 2 hours ! A very satisfying workshop where students code and design their own landing page.
 
-**Overview:**
+### Overview
 
 - Go quickly thought HTML / CSS basics
 - Show lots of graphical tips and tools (fontawesome, Google Fonts, coolors, etc..)
 - Introduce Bootstrap and its grid system
 - Finish with a Mailchimp embed to activate the landing.
 
-**[keynote]()**
-**[youtube video]()**
-**[slideshare link]()**
+### Resources
 
+- [keynote]()
+- [youtube video]()
+- [slideshare]()
 
 ## 3 - I am loving Git
 
 TODO seb
 
-**Overview:**
+### Resources
 
-TODO seb
-
-**[keynote]()**
-**[youtube video]()**
-**[slideshare link]()**
+- [keynote]()
+- [youtube video]()
+- [slideshare]()
 
 ## 4 - API
 
 TODO seb
 
-**Overview:**
+### Overview
 
 TODO seb
 
-**[keynote]()**
-**[youtube video]()**
-**[slideshare link]()**
+### Resources
+
+- [keynote]()
+- [youtube video]()
+- [slideshare]()
 
 ## 5 - Technical workflow
 
 TODO seb
 
-**Overview:**
+### Overview
 
 TODO seb
 
-**[keynote]()**
-**[youtube video]()**
-**[slideshare link]()**
+### Resources
+
+- [keynote]()
+- [youtube video]()
+- [slideshare]()
