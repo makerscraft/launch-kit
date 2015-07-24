@@ -5,7 +5,7 @@
 - Make a pull-request on [Le Wagon website repository](https://github.com/lewagon/www-sinatra) to add your city page (ex: [Paris page](http://www.lewagon.org/paris))
 - When it's done, we'll plug our *application tool* to your city page, and you can start getting candidates right on!
 - Create a meetup group following our [meetup graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines/meetup) (ex: [Le Wagon Paris meetup](http://www.meetup.com/fr/Le-Wagon-Paris-Coding-Station/))
-- Create a city Twitter account `@lewagon<city_name>` (e.g. `@lewagonlosangeles`)
+- Create a Twitter account for your city `@lewagon<city_name>` (e.g. `@lewagonlosangeles`)
 - For Facebook / Youtube, we all play as a team and use the same page/channel.
 
 ## Bootstrapping
