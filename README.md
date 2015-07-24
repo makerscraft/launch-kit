@@ -1,22 +1,22 @@
 ## Set up
 
-1. Start by reading [our graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines) and downloading all our [brand assets](https://github.com/lewagon/design/tree/master/guidelines/brand). You'll be more efficient for the following steps.
-1. Make a pull-request on [our website repo](https://github.com/lewagon/www-sinatra) to add your city page (ex: [Paris page](http://www.lewagon.org/paris))
-1. At this point, we'll be able to plug our *application tool* to your city page, so that you can start handling candidates right on!
-1. Join us on [Le Wagon's Slack](https://teamwagon.slack.com) and create a channel for your city `#city`.
-1. Create a meetup group following our [graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines/meetup) (ex: [Le Wagon Paris meetup](http://www.meetup.com/fr/Le-Wagon-Paris-Coding-Station/))
-1. Create a city Twitter account `@lewagon<city_name>` (e.g. `@lewagonlosangeles`)
-1. For Facebook / Youtube, we all play as a team and use the same page.
+- Join us on [Le Wagon's Slack](https://teamwagon.slack.com) and create a channel for your city `#city`.
+- Read [our graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines) and download our [brand assets](https://github.com/lewagon/design/tree/master/guidelines/brand) to win time in the next steps.
+- Make a pull-request on [Le Wagon website repository](https://github.com/lewagon/www-sinatra) to add your city page (ex: [Paris page](http://www.lewagon.org/paris))
+- When it's done, we'll plug our *application tool* to your city page, and you can start getting candidates right on!
+- Create a meetup group following our [meetup graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines/meetup) (ex: [Le Wagon Paris meetup](http://www.meetup.com/fr/Le-Wagon-Paris-Coding-Station/))
+- Create a city Twitter account `@lewagon<city_name>` (e.g. `@lewagonlosangeles`)
+- For Facebook / Youtube, we all play as a team and use the same page/channel.
 
 ## Bootstrapping
 
 - When the setup is done, time to work on the *acquisition*.
-- Connect to tech spots (cool coworking places, startup accelerators...) that accept to give your their place to organize free workshops in the evening, and communicate on theses events with their community. Of course, use your meetup group to plan these workshops!
-- Make at least **1 workshop / week**. Creating a physical community and showing people your pedagogical skills is the best way to onboard candidates.
-- Connect to ruby and dev communities to meet potential teachers if you haven't any developers in the team yet. We'll be more than happy to help you test potential teachers in skype sessions.
-- Making cool workshops in tech spots is also a way to find a place to run the 1st batches of the fullstack program. Discuss it with them from the beginning.
+- Connect to tech spots (coworking places, startup accelerators...) that accept to organize Le Wagon's free workshops in their place and help you communicate on them. Of course, use your meetup group for these workshops!
+- Make at least **1 workshop / week**. Showing your pedagogical skills is the best way to onboard candidates.
+- Connect to ruby and devs communities to meet potential teachers if you don't have any developers in the team yet. We'll be more than happy to help you test potential teachers during skype sessions.
+- From the beginning, discuss with these tech spots about the opportunity to run the first batches of the program in their place.
 
-Now a bit of resources and help for organizing the workshops
+Now a bit of help for organizing workshops and pitching the program.
 
 ### Pitch Deck
 
