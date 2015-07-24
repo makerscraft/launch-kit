@@ -43,8 +43,8 @@ Of course, you are the business owner, you drive your city, your community, your
 
 Here is a list of actions that don't really fit with this value :
 
-- Double-brandings with expressions such as **Le Wagon by ...** or **... by Le Wagon**: if you launch Le Wagon, it's Le Wagon and adding an extra brand is just weakening your communication and blurring the message.
-- Create an **independent landing page**: instead, you should make a pull request to our website city page so that every one can benefit from it. That's our spirit !
+- **"Double-brandings"** with expressions such as **Le Wagon by ...** or **... by Le Wagon**. If you launch Le Wagon, it's Le Wagon and adding an extra brand is just weakening your communication and blurring the message.
+- **"External landing page"**. Instead, you should make a pull request to our website city page so that every one can benefit from it. That's our spirit !
 
 
 
