@@ -10,13 +10,13 @@
 
 ## Bootstrapping
 
-- When the setup is done, time to work on the *acquisition*.
+- When the setup is done, time to work on the **acquisition**.
 - Connect to tech spots (coworking places, startup accelerators...) that accept to organize Le Wagon's free workshops in their place and help you communicate on them. Of course, use your meetup group for these workshops!
 - Make at least **1 workshop / week**. Showing your pedagogical skills is the best way to onboard candidates.
 - Connect to ruby and devs communities to meet potential teachers if you don't have any developers in the team yet. We'll be more than happy to help you test potential teachers during skype sessions.
 - From the beginning, discuss with these tech spots about the opportunity to run the first batches of the program in their place.
 
-Now a bit of help for organizing workshops and pitching the program.
+Now a bit of help for running workshops and pitching Le Wagon's program.
 
 ### Pitch Deck
 
