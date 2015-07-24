@@ -1,6 +1,9 @@
+Here is an ordered list of all the workshops you can organize, with associated keynote / youtube video. Of course, you are not obliged to use them and can create & animate your own ones! 
+
+
 ## 1 - Technical entrepreneurship
 
-An technical overview of all the skills, tools and necessary culture to launch a web product.
+A technical overview of all the skills, tools and necessary culture to launch a web product.
 
 ### Overview
 
