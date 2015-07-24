@@ -17,6 +17,8 @@ An technical overview of all the skills, tools and necessary culture to launch a
 **[youtube video]()**
 **[slideshare link]()**
 
+
+
 <i class="fa fa-heart"></i>
 
 ## 2 - The 2-hour landing page
