@@ -20,7 +20,7 @@ A technical overview of all the skills, tools and culture necessary to launch a 
 
 ## 2 - The 2-hour landing page
 
-Code and design your landing page in only 2 hours ! A very satisfying workshop where students code and design their own landing page.
+Code and design your landing page in only 2 hours ! A very satisfying workshop where students code and design their own landing page using HTML/CSS & Bootstrap.
 
 ### Overview
 
