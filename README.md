@@ -24,7 +24,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 Here are all [our workshops keynote + a nice planning to run them]().
 
-### Print supports
+### Print
 
 Need some stickers to offer at the end of the workshops? some cool wall-sticker? some flyers, cards? Find all our cool templates and guidelines [here](https://github.com/lewagon/design/tree/master/guidelines/print)
 
