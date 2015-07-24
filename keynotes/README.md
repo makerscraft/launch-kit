@@ -10,7 +10,7 @@ A technical overview of all the skills, tools and culture necessary to launch a 
 - Define the product picth & give examples among Le Wagon students' startups.
 - Introduce the AARRR framework
 - Explain basics about how internet works, what's HTTP, what's an API
-- Show useful services and tools that entrepreneur can use to activate their landing, automate some processes, prototype their MVP.
+- Show useful services and tools that entrepreneurs can use to activate their landing, automate processes, track metrics, prototype their MVP (mailchimp, typeform, formkeep, GA, Zapier, Olark etc..).
 
 ### Resources
 
