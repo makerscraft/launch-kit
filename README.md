@@ -22,7 +22,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 ### Workshops
 
-Here are all [our workshops keynote + a nice planning to run them]().
+Here are all [our workshops keynote + a nice planning to run them](https://github.com/lewagon/launch-kit/tree/master/keynotes).
 
 ### Print
 
