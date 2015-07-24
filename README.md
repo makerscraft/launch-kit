@@ -22,7 +22,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 ### Workshops
 
-Here are all [our workshops + their meetup planning](). Feel free to download and change the keynotes for your own needs.
+Here are all [our workshops keynote + a nice planning to run them]().
 
 ### Print supports
 
@@ -31,7 +31,7 @@ Need some stickers to offer at the end of the workshops? some cool wall-sticker?
 
 ## 1s batch is live !
 
-Yeahhhhhh! time to add your lead developpers on our pedagogical platforms and explain them all about it.
+You have your 20 students for the 1st batch. **Yeahhhhhh!** time for us to add your lead developpers on our pedagogical platforms and explain them all about it.
 
 **B O U M**
 
