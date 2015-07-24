@@ -3,11 +3,11 @@ Here is an ordered list of all the workshops you can organize, with associated k
 
 ## 1 - Technical entrepreneurship
 
-A technical overview of all the skills, tools and necessary culture to launch a web product.
+A technical overview of all the skills, tools and culture necessary to launch a web product.
 
 ### Overview
 
-- Detail what a product picth is
+- Define the product picth & give examples among Le Wagon students' startups.
 - Introduce the AARRR framework
 - Explain basics about how internet works, what's HTTP, what's an API
 - Show useful services and tools that entrepreneur can use to activate their landing, automate some processes, prototype their MVP.
