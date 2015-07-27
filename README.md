@@ -29,7 +29,7 @@ You have your 20 students for the 1st batch. **Yeahhhhhh!** time for us to add y
 
 ## Our mindset
 
-Launching Le Wagon is a matter of trust and **shared values**. Among these value, **collaboration** and **simplicity**.
+Launching Le Wagon is a matter of trust and **shared values**.
 
 
 ### Collaboration
