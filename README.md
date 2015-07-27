@@ -43,7 +43,7 @@ Here is a list of things that don't really fit with collaboration :
 - **"Double-brandings"** with expressions such as **Le Wagon by ...** or **... by Le Wagon**. If you launch Le Wagon, it's Le Wagon and adding an extra brand is just weakening your communication and blurring the message.
 - **"External landing page"**. Instead, you should make a pull request to our website city page so that every one can benefit from it. That's our spirit !
 
-Here is thing that really fits with collaboration :
+Here is a thing that really fits with collaboration :
 
 - **"Pull requests"**. Making PRs on the content of our pedagogical platform, or on the graphical assets of our design repo, that's what collaboration is about!
 
@@ -51,13 +51,13 @@ Here is thing that really fits with collaboration :
 
 We know launching a fullstack program is not an easy task.. But the strategy remains quite simple at the end
 
-- Animate cool & free workshops / events (not so hard to find tech spots interested!)
+- Animate cool & free workshops (not so hard to find tech spots interested!)
 
 The objective is reachable unlike so many startups that struggle finding their product/market fit..
 
 Hence, we'll be 300% ready to help you, give you advice, feedbacks, speak about pedagogy, content etc.. but we don't want to partner with **"this is complicated"-people** !
 
-Launching a market place is complicated. Launching Le Wagon is not. It's exhausting, it requires a lot of energy, enthusiasm & passion. But it's not complicated :) That's a second core value that we should all share: **simplicity**.
+Launching a market place is complicated. Launching Le Wagon is not. It's exhausting, it requires a lot of energy, enthusiasm & passion. But it's not complicated :) That's a second value that we should all share: **simplicity**.
 
 
 
