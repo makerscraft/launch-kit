@@ -6,45 +6,58 @@
 - When it's done, we'll plug our *application tool* to your city page, and you can start getting candidates right on!
 - Create a meetup group following our [meetup graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines/meetup) (ex: [Le Wagon Paris meetup](http://www.meetup.com/fr/Le-Wagon-Paris-Coding-Station/))
 - Create a Twitter account for your city `@lewagon<city_name>` (e.g. `@lewagonlosangeles`)
-- For Facebook / Youtube, we all play as a team and use the same page/channel.
+- For Facebook / Youtube, we all play as a team and use the same page / channel.
 
 ## Bootstrapping
 
 - When the setup is done, time to work on the **acquisition**.
-- Connect to tech spots (coworking places, startup accelerators...) that accept to organize Le Wagon's free workshops in their place and help you communicate on them. Of course, use your meetup group for these workshops!
+- Connect to tech spots (coworking places, startup accelerators...) that accept to organize free workshops in their place and help you communicate on them. Of course, use your meetup group for these workshops!
 - Make at least **1 workshop / week**. Showing your pedagogical skills is the best way to onboard candidates.
 - Connect to ruby and devs communities to meet potential teachers if you don't have any developers in the team yet. We'll be more than happy to help you test potential teachers during skype sessions.
-- From the beginning, discuss with these tech spots about the opportunity to run the first batches of the program in their place.
+- From the beginning, discuss with tech spots about the opportunity to run the first batches of the program in their place.
 
 Now a bit of help for running workshops and pitching Le Wagon's program.
 
-### Pitch Deck
-
-### Workshops
-
-Here are all [our workshops keynote + a nice planning to run them](https://github.com/lewagon/launch-kit/tree/master/keynotes).
-
-### Print
-
-Need some stickers to offer at the end of the workshops? some cool wall-sticker? some flyers, cards? Find all our cool templates and guidelines [here](https://github.com/lewagon/design/tree/master/guidelines/print)
+- [Pitch Deck]
+- [Workshop keynote + video](https://github.com/lewagon/launch-kit/tree/master/keynotes).
+- Print: need some stickers to offer at the end of the workshops? some cool wall-sticker? some flyers, cards? Find all our cool templates and guidelines [here](https://github.com/lewagon/design/tree/master/guidelines/print)
 
 
 ## 1s batch is live !
 
 You have your 20 students for the 1st batch. **Yeahhhhhh!** time for us to add your lead developpers on our pedagogical platforms and explain them all about it.
 
-## Dont's
+## Our mindset
 
-Launching Le Wagon is a matter of **trust** and **shared values**. We should all play as a unique team which will improve the quality of the work in each team.
+Launching Le Wagon is a matter of trust and **shared values**. Among these value, **collaboration** and **simplicity**.
 
-By collaborating to improve pedagogical contents, graphical assets, communication supports, etc.. we can just create something much bigger.
 
-Of course, you are the business owner, you drive your city, your community, your opportunities, and can experiment things, but collaborating with each other is a core value to be part of Le Wagon.
+### Collaboration
 
-Here is a list of things that don't really fit with this value :
+By collaborating with each other to improve pedagogical contents, graphical assets, communication supports, etc.. we can just create something much bigger. Every contribution benefits to all teams and we all become better at what we do.
+
+Of course, you are the project owner, you drive your city, your community, your business opportunities, and you are free to experiment things, but this collaboration mindset should drive the way you work & communicate with the rest of us.
+
+Here is a list of things that don't really fit with collaboration :
 
 - **"Double-brandings"** with expressions such as **Le Wagon by ...** or **... by Le Wagon**. If you launch Le Wagon, it's Le Wagon and adding an extra brand is just weakening your communication and blurring the message.
 - **"External landing page"**. Instead, you should make a pull request to our website city page so that every one can benefit from it. That's our spirit !
+
+Here is thing that really fits with collaboration :
+
+- **"Pull requests"**. Making PRs on the content of our pedagogical platform, or on the graphical assets of our design repo, that's what collaboration is about!
+
+### Energy & pragmatism
+
+We know launching a fullstack program is not an easy task.. But the strategy remains quite simple at the end
+
+- Animate cool & free workshops / events (not so hard to find tech spots interested!)
+
+The objective is reachable unlike so many startups that struggle finding their product/market fit..
+
+Hence, we'll be 300% ready to help you, give you advice, feedbacks, speak about pedagogy, content etc.. but we don't want to partner with **"this is complicated"-people** !
+
+Launching a market place is complicated. Launching Le Wagon is not. It's exhausting, it requires a lot of energy, enthusiasm & passion. But it's not complicated :) That's a second core value that we should all share: **simplicity**.
 
 
 
