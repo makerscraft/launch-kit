@@ -15,7 +15,7 @@ A technical overview of all the skills, tools and culture necessary to launch a 
 ### Resources
 
 - [Slideshare](http://www.slideshare.net/bpapillard/le-wagon-tech-entrepreneurship)
-- Video by @papillard (Soon)
+- [Video by @papillard](https://www.youtube.com/watch?v=wC90ors8BMk)
 - [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20tech%20entrepreneurship.key?raw=true)
 
 ## 2 - The 2-hour landing page
