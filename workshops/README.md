@@ -1,4 +1,4 @@
-Here is an ordered list of all the workshops you can organize, with associated keynote / youtube video. Of course, you are not obliged to use them and can create & animate your own ones!
+Here is a list of all the workshops you can organize, with associated keynotes / youtube videos. Of course, feel free to create your own ones!
 
 
 ## 1 - Technical entrepreneurship
@@ -16,7 +16,7 @@ A technical overview of all the skills, tools and culture necessary to launch a 
 
 - [Slideshare](http://www.slideshare.net/bpapillard/le-wagon-tech-entrepreneurship)
 - Video by @papillard (Soon)
-- [Keynote](https://github.com/lewagon/launch-kit/raw/master/keynotes/Le%20Wagon%20-%20Tech%20Entrepreneurship.key)
+- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20tech%20entrepreneurship.key?raw=true)
 
 ## 2 - The 2-hour landing page
 
@@ -31,9 +31,9 @@ Code and design your landing page in only 2 hours! A very satisfying workshop wh
 
 ### Resources
 
-- [Old slides](http://workshops.lewagon.org/workshops/landing/index.html#/)
-- Keynote (soon)
+- [Slideshare](http://fr.slideshare.net/bpapillard/le-wagon-2h-landing)
 - [Video by @papillard](https://www.youtube.com/watch?v=SXBX5UFHW64)
+- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20landing%20page.key?raw=true)
 
 ## 3 - Git and GitHub for Beginners
 
@@ -72,7 +72,7 @@ exactly what it's about.
 ### Resources
 
 - [USlide Video by @ssaunier](https://www.uslide.io/presentations/JCyHE0w8oEW5GNZXZik7PA)
-- [Keynote](https://github.com/lewagon/launch-kit/raw/master/keynotes/Le%20Wagon%20-%20API.key)
+- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20API.key?raw=true)
 - [Slideshare](http://fr.slideshare.net/ssaunier/api-for-beginners)
 
 ## 5 - Technical workflow
@@ -96,4 +96,4 @@ takes 2 weeks? Let's explore how a startup development team can be efficient wit
 
 - [Video by @ssaunier](https://www.youtube.com/watch?v=JQRiwZKJktE)
 - [Slideshare](http://www.slideshare.net/ssaunier/techical-workflow-for-a-startup)
-- [Keynote](https://github.com/lewagon/launch-kit/raw/master/keynotes/Le%20Wagon%20-%20Technical%20Workflow.key)
+- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20Technical%20Workflow.key?raw=true)
