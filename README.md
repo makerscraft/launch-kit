@@ -18,9 +18,9 @@
 
 Now a bit of help for running workshops and pitching Le Wagon's program.
 
-- [Pitch Deck]
-- [Workshop keynote + video](https://github.com/lewagon/launch-kit/tree/master/keynotes).
-- Print: need some stickers to offer at the end of the workshops? some cool wall-sticker? some flyers, cards? Find all our cool templates and guidelines [here](https://github.com/lewagon/design/tree/master/guidelines/print)
+- [Pitch Deck]()
+- [Workshops (keynotes + videos)](https://github.com/lewagon/launch-kit/tree/master/keynotes)
+- [Print](https://github.com/lewagon/design/tree/master/guidelines/print): need some stickers for your workshops? some flyers, business cards?
 
 
 ## 1s batch is live !
