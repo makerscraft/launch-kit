@@ -52,8 +52,8 @@ You've heard about Git and GitHub and you know that's a hot topic right now for 
 ### Resources
 
 - [Old slides](http://workshops.lewagon.org/workshops/git-github/index.html#/)
-- Keynote (soon)
 - [Video by @ssaunier](https://www.youtube.com/watch?v=V6Zo68uQPqE)
+- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20Git%20&%20Github.key?raw=true)
 
 ## 4 - API for Beginners
 
@@ -72,8 +72,8 @@ exactly what it's about.
 ### Resources
 
 - [USlide Video by @ssaunier](https://www.uslide.io/presentations/JCyHE0w8oEW5GNZXZik7PA)
-- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20API.key?raw=true)
 - [Slideshare](http://fr.slideshare.net/ssaunier/api-for-beginners)
+- [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20API.key?raw=true)
 
 ## 5 - Technical workflow
 
