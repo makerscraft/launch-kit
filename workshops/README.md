@@ -51,7 +51,7 @@ You've heard about Git and GitHub and you know that's a hot topic right now for 
 
 ### Resources
 
-- [Old slides](http://workshops.lewagon.org/workshops/git-github/index.html#/)
+- [Slides](http://www.slideshare.net/ssaunier/le-wagon-git-github)
 - [Video by @ssaunier](https://www.youtube.com/watch?v=V6Zo68uQPqE)
 - [Download Keynote](https://github.com/lewagon/launch-kit/blob/master/workshops/Le%20Wagon%20-%20Git%20&%20Github.key?raw=true)
 
