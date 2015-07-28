@@ -1,6 +1,6 @@
 ## Pain
 
-Many talented people are frustrated because :
+Many talented people are frustrated because:
 
 - They have business ideas and want to build their startup
 - They dream of a more interested & creative career finding a job in the tech industry (developer, product manager, growth hacker..)
