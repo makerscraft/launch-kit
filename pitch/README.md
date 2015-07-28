@@ -31,10 +31,10 @@ Le Wagon's community is simply **the best tech community** you can imagine. You 
 
 ## Figures & achievements
 
-- 100+ products built
-- 20+ startup in seed round
+- **100+ products** built
+- **20+ startup in seed round**
 - 2 countries, 4 cities
-- featured by techcrunch as one of the most promising bootcamp in Europe.
+- featured by techcrunch as one of the **most promising bootcamps in Europe**.
 
 
 
