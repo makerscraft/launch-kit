@@ -14,7 +14,7 @@ Le Wagon brings technical skills to these creative people. That's our big missio
 
 ## Fullstack Program (how)
 
-For that, we've built a very intensive & selective 9-week program to teach software engineering and web-development to 24 skilled students.
+For that, we've built a very **intensive & selective 9-week program** to teach software engineering and web-development to 24 skilled students.
 
 - We start with coding basics, go through software/DB architecture & frontend development to finish on modern web frameworks (Rails).
 - All the way down, we explain best practices used in startups (collaboration techniques on Github, hosting & continuous deployment, etc...)
@@ -23,11 +23,11 @@ For that, we've built a very intensive & selective 9-week program to teach softw
 
 ## Platforms & community (what)
 
-Le Wagon is not a traditional coding school. We've built and iterate custom tools & platforms during 2 years with more than 300 challenges and 45 lectures, getting rid of every friction in the learning process. Every day, students are pair programming and pushing their solution using git & Github to be automatically corrected, from day one.
+Le Wagon is not a traditional coding school. **We've built and iterate custom tools & platforms during 2 years** with more than 300 challenges and 45 lectures, **getting rid of every friction in the learning process**. Every day, students are pair programming and pushing their solution using git & Github to be automatically corrected, from day one.
 
-Above the platforms & tools, applying to Le Wagon means you enroll in an awesome community. At the end of the 2 months you speak the same language as your 300+ alumni peers. You can help each other and share tips on Le Wagon's chat, you can get answers to your questions and will keep learning after the 2 months
+Above the platforms & tools, **applying to Le Wagon means enrolling in an fantastic community**. At the end of the 2 months you'll speak the same language as your 300+ peers. You can help each other, share tips on Le Wagon's chat, get answers to your questions and keep learning and making progress.
 
-Le Wagon community is simply the best tech community you can imagine. You can ask any alumni!
+Le Wagon's community is simply **the best tech community** you can imagine. You can ask any student!
 
 ## Figures & achievements
 
