@@ -18,7 +18,7 @@ For that, we've built a very **intensive & selective 9-week program** to teach s
 
 - We start with coding basics, go through software/DB architecture & frontend development to finish on modern web frameworks (Rails).
 - All the way down, we explain best practices used in startups (collaboration techniques on Github, hosting & continuous deployment, etc...)
-- Above all, we change their mindset, and feed their creativity with technical insights.
+- Above all, we change students' mindset and feed their creativity with technical insights.
 
 
 ## Platforms & community (what)
