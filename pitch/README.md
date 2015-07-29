@@ -23,7 +23,7 @@ For that, we've built a very **intensive & selective 9-week program** to teach s
 
 ## Platforms & community (what)
 
-Le Wagon is not a traditional coding school. **We've built and iterated custom tools & platforms over 2 years** with more than 300 challenges and 45 lectures, **getting rid of every friction in the learning process**. Every day, students are pair programming and pushing their solution using git & Github to be automatically corrected, from day one.
+Le Wagon is not a traditional coding school. **We've built and iterated custom tools & platforms for the last 2 years** with more than 300 challenges and 45 lectures, **getting rid of every friction in the learning process**. Every day, students are pair programming and pushing their solution using git & Github to be automatically corrected, from day one.
 
 Above the platforms & tools, **applying to Le Wagon means enrolling in a fantastic community**. At the end of the 2 months you'll speak the same language as your 300+ peers. You can help each other, share tips on Le Wagon's chat, get answers to your questions and keep learning and making progress.
 
