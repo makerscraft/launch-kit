@@ -3,7 +3,7 @@
 Many talented people are frustrated because:
 
 - They have business ideas and want to **build their startup**
-- They dream of a more **interested & creative career** finding a job in the tech industry (developer, product manager, growth hacker..)
+- They dream of a more **interesting & creative career** finding a job in the tech industry (developer, product manager, growth hacker..)
 - They want to **re-invent their current work** using new tools, new technologies, new workflow.
 
 They don't have the technical skills for that... **for the moment**
