@@ -30,8 +30,8 @@ This Trello board is always the same with the same lists.
 
 Here is the detailed process for onboarding a candidate:
 
-**1. INBOX:** some text
-**2. FIRST CONTACT:**
+1. **INBOX:** some text
+2. **FIRST CONTACT:**
 **3. INTERVIEW:**
 **4. CODECADEMY:**
 **5. CONTRAT:**
