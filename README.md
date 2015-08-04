@@ -3,7 +3,7 @@
 - Join us on [Le Wagon's Slack](https://teamwagon.slack.com) and create a channel for your city `#city`.
 - Read [our graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines) and download our [brand assets](https://github.com/lewagon/design/tree/master/guidelines/brand) to save time in the next steps.
 - Make a pull-request on [Le Wagon website repository](https://github.com/lewagon/www-sinatra) to add your city page (ex: [Paris page](http://www.lewagon.org/paris))
-- When it's done, we'll plug our *application tool* to your city page, and you can start getting candidates right on!
+- When it's done, we'll plug our *application tool* to your city page then you can start getting candidates right on!
 - Create a meetup group following our [meetup graphical guidelines](https://github.com/lewagon/design/tree/master/guidelines/meetup) (ex: [Le Wagon Paris meetup](http://www.meetup.com/fr/Le-Wagon-Paris-Coding-Station/))
 - Create a Twitter account for your city `@lewagon<city_name>` (e.g. `@lewagonlosangeles`)
 - For Facebook / Youtube, we all play as a team and use the same page / channel.
@@ -11,7 +11,7 @@
 ## Bootstrapping
 
 - When the setup is done, time to work on the **acquisition**.
-- Connect to tech spots (coworking places, startup accelerators...) that accept to organize free workshops in their place and help you communicate on them. Of course, use your meetup group for these workshops!
+- Connect with the tech spots (coworking places, startup accelerators...) that accept to organize free workshops in their place and help you communicate on them. Of course, use your meetup group for these workshops!
 - Make at least **1 workshop / week**. Showing your pedagogical skills is the best way to onboard candidates.
 - Connect to ruby and devs communities to meet potential teachers if you don't have any developers in the team yet. We'll be more than happy to help you test potential teachers during skype sessions.
 - From the beginning, discuss with tech spots about the opportunity to run the first batches of the program in their place.
@@ -30,42 +30,42 @@ Each session has a dedicated Trello board linked to the website application page
 
 This Trello board is always the same with the same lists.
 
-For each application, a card is created in the INBOX list when the candidate fill the form to apply and validate it.
+For each application, a card is created in the INBOX list when the candidate fill up the form to apply and validate it.
 
 <img src="images/inbox.png">
 <img src="images/card.png">
 
 _Tip:_ if you're using Chrome please install the [CardCounter extension](https://chrome.google.com/webstore/detail/cardcounter-for-trello/miejdnaildjcmahbhmfngfdoficmkdhi?hl=en), very useful.
 
-Here is the detailed process to onboard a candidate:
+Here is the detailed onboarding process:
 
 1. **INBOX:** you'll find the recent applications.
 
-  - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, drag & drop his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
+  - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, **drag & drop** his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
-2. **FIRST CONTACT:** the candidate stay in this list until he books an itw.
+2. **FIRST CONTACT:** the candidate stays in this list until he booked an itw.
 
-3. **INTERVIEW:** in this list you'll find all your future interviews.
+3. **INTERVIEW:** in this list you'll find all your future interviewees.
 
-  - **_From_ INTERVIEW _to_ CODECADEMY:** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). Drag & drop his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions. The email ask for his Codecademy username because a little homemade bot gonna tell us when he's done with the track.
+  - **_From_ INTERVIEW _to_ CODECADEMY:** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). **Drag & drop** his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions (this email ask for his Codecademy username as our little homemade bot gonna tell us when he's done with the track.).
 
   - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit, the card goes to NO GO
 
   - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
 
-4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's rady to go! You can drag & drop the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
+4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
 
 <img src="images/codecademy.png">
 
 5. **CONTRAT:** the card stay in this list until the contract is signed.
 
-  - **_From_ CONTRACT _to_ ACOMPTE/DOWN PAYMENT:** When the contract is signed, you click on the blue label into the card (signed contract) and you drag & drop the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the down payment.
+  - **_From_ CONTRACT _to_ ACOMPTE/DEPOSIT:** When the contract is signed, you click on the blue label into the card (signed contract) and you **drag & drop** the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on the local legislation).
 
-6. **ACOMPTE / DOWN PAYMENT:** the card stay in this list until you received the down payment.
+6. **ACOMPTE / DEPOSIT:** the card stays in this list until you received the deposit.
 
-  - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:** when you receive the payment you can drag & drop the card in the GO list.
+  - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:** when you receive the payment you can **drag & drop** the card in the GO list.
 
-7. **GO:** Well, it's the GO list!!!
+7. **GO:** Well, this is it!!!
 
 8. **LEAD FUTUR:** people you should recontact later.
 
@@ -78,7 +78,7 @@ And talking about the 1st batch...
 
 ## 1s batch is live !
 
-You have your 20 students for the 1st batch. **Yeahhhhhh!** time for us to add your lead developpers on our pedagogical platforms and explain them all about it.
+You have your 20 students for the 1st batch. **Yeahhhhhh!** time for us to add your lead developpers on our pedagogical platforms and brief them all about it.
 
 ## Our mindset
 
