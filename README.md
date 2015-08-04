@@ -37,7 +37,7 @@ For each application, a card is created in the INBOX list when the candidate fil
 
 Here is the detailed process to onboard a candidate:
 
-1. **INBOX:** you'll find the recent applications
+1. **INBOX:** you'll find the recent applications.
 
   - **_From INBOX to FIRST CONTACT:_** have a look on the content of the card. If it's a serious candidate, drag & drop his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
@@ -45,9 +45,10 @@ Here is the detailed process to onboard a candidate:
 
 3. **INTERVIEW:** in this list you'll find all your future interviews.
 
-  - **_From INTERVIEW to CODECADEMY:_**
+  - **_From INTERVIEW to CODECADEMY:_** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). Drag & drop his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions. The email ask for his Codecademy username because a little homemade bot gonna tell us when he's done with the track.
 
-4. **CODECADEMY:**
+4. **CODECADEMY:** the card stay in this list until the candidate has finished theh Ruby track. When he does, thanks to the bot, a green label appears on his card.
+
 5. **CONTRAT:**
 6. **ACOMPTE / DOWN PAYMENT:**
 7. **GO:**
