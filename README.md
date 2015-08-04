@@ -41,17 +41,17 @@ Here is the detailed process to onboard a candidate:
 
 1. **INBOX:** you'll find the recent applications.
 
-  - **_From INBOX to FIRST CONTACT:_** have a look on the content of the card. If it's a serious candidate, drag & drop his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
+  - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, drag & drop his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
 2. **FIRST CONTACT:** the candidate stay in this list until he books an itw.
 
 3. **INTERVIEW:** in this list you'll find all your future interviews.
 
-  - **_From_ INTERVIEW _to_ CODECADEMY_:_** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). Drag & drop his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions. The email ask for his Codecademy username because a little homemade bot gonna tell us when he's done with the track.
+  - **_From_ INTERVIEW _to_ CODECADEMY:** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). Drag & drop his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions. The email ask for his Codecademy username because a little homemade bot gonna tell us when he's done with the track.
 
-  - **_From INTERVIEW to NO GO:_** If the candidate doesn't fit the card goes to NO GO
+  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit the card goes to NO GO
 
-  - **_From INTERVIEW to LEAD FUTUR:_** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
+  - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
 
 4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's rady to go! You can drag & drop the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
 
@@ -59,11 +59,11 @@ Here is the detailed process to onboard a candidate:
 
 5. **CONTRAT:** the card stay in this list until the contract is signed.
 
-  - **_From CONTRACT to ACOMPTE/DOWN PAYMENT:_** When the contract is signed, you click on the blue label into the card (signed contract) and you drag & drop the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the down payment.
+  - **_From_ CONTRACT _to_ ACOMPTE/DOWN PAYMENT:** When the contract is signed, you click on the blue label into the card (signed contract) and you drag & drop the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the down payment.
 
 6. **ACOMPTE / DOWN PAYMENT:** the card stay in this list until you received the down payment.
 
-  - **_From ACOMPTE/DOWN PAYMENT to GO:_** when you receive the payment you can drag & drop the card in the GO list.
+  - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:_** when you receive the payment you can drag & drop the card in the GO list.
 
 7. **GO:** it's the GO list!!!
 
