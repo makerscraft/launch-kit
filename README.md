@@ -32,14 +32,14 @@ This Trello board is always the same with the same lists.
 
 For each application, a card is created in the INBOX list when the candidate fill up the form to apply and validate it.
 
-<img src="images/inbox.png">
-<img src="images/card.png">
+![inbox list](images/inbox.png)
+![card](images/card.png)
 
 _Tip:_ if you're using Chrome please install the [CardCounter extension](https://chrome.google.com/webstore/detail/cardcounter-for-trello/miejdnaildjcmahbhmfngfdoficmkdhi?hl=en), very useful.
 
 Here is the detailed onboarding process:
 
-1. **INBOX:** you'll find the recent applications.
+- **INBOX:** you'll find the recent applications.
 
   - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, **drag & drop** his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
