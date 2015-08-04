@@ -27,7 +27,9 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 There is a lot of magic & automation in there :)
 
 Each session has a dedicated Trello board linked to the application page (lewagon.org/apply).
+
 This Trello board is always the same with the same lists.
+
 For each application, a card is created in the INBOX list when the candidate fill the form to apply and validate it.
 
 <img src="images/inbox.png">
