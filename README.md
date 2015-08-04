@@ -26,7 +26,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 There is a lot of magic & automation in there :)
 
-Each session has a dedicated Trello board linked to the website application page.
+Each batch has a dedicated Trello board linked to the website application page.
 
 This Trello board is always the same with the same lists.
 
@@ -71,7 +71,7 @@ Here is the detailed onboarding process:
 
 - **NO GO:** people you shouldn't recontact later ...
 
-_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign we'll implement it to improve the automation after the first batch.
+_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign well implement it to improve the automation after the first batch.
 
 And talking about the 1st batch...
 
