@@ -43,9 +43,9 @@ Here is the detailed onboarding process:
 
   - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, **drag & drop** his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
-2. **FIRST CONTACT:** the candidate stays in this list until he booked an itw.
+- **FIRST CONTACT:** the candidate stays in this list until he booked an itw.
 
-3. **INTERVIEW:** in this list you'll find all your future interviewees.
+- **INTERVIEW:** in this list you'll find all your future interviewees.
 
   - **_From_ INTERVIEW _to_ CODECADEMY:** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). **Drag & drop** his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions (this email ask for his Codecademy username as our little homemade bot gonna tell us when he's done with the track.).
 
@@ -53,23 +53,23 @@ Here is the detailed onboarding process:
 
   - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
 
-4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
+- **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
 
 ![codecademy list](images/codecademy.png)
 
-5. **CONTRAT:** the card stays in this list until the contract is signed.
+- **CONTRAT:** the card stays in this list until the contract is signed.
 
   - **_From_ CONTRACT _to_ ACOMPTE/DEPOSIT:** When the contract is signed, you click on the blue label into the card (signed contract) and you **drag & drop** the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on the local legislation).
 
-6. **ACOMPTE / DEPOSIT:** the card stays in this list until you received the deposit.
+- **ACOMPTE / DEPOSIT:** the card stays in this list until you received the deposit.
 
   - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:** when you receive the payment you can **drag & drop** the card in the GO list.
 
-7. **GO:** Well, this is it!!!
+- **GO:** Well, this is it!!!
 
-8. **LEAD FUTUR:** people you should recontact later.
+- **LEAD FUTUR:** people you should recontact later.
 
-9. **NO GO:** people you shouldn't recontact later ...
+- **NO GO:** people you shouldn't recontact later ...
 
 _Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign we will implement this solution to improve the automation after the first batch.
 
