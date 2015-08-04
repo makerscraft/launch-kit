@@ -35,6 +35,8 @@ For each application, a card is created in the INBOX list when the candidate fil
 <img src="images/inbox.png">
 <img src="images/card.png">
 
+_Tip:_ if you're using Chrome please install the [CardCounter extension](https://chrome.google.com/webstore/detail/cardcounter-for-trello/miejdnaildjcmahbhmfngfdoficmkdhi?hl=en), very useful.
+
 Here is the detailed process to onboard a candidate:
 
 1. **INBOX:** you'll find the recent applications.
@@ -51,7 +53,7 @@ Here is the detailed process to onboard a candidate:
 
   - **_From INTERVIEW to LEAD FUTUR:_** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
 
-4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card.
+4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's rady to go! You can drag & drop the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
 
 <img src="images/codecademy.png">
 
