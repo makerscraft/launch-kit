@@ -31,12 +31,11 @@ This Trello board is always the same with the same lists.
 Here is the detailed process to onboard a candidate:
 
 1. **INBOX:** for each application, a card is created in this list when the candidate fill the form to apply and validate it.
-..- **From inbox to first contact:**
 
 <img src="images/inbox.png">
 <img src="images/card.png">
 
-
+  - **From inbox to first contact:**
 
 2. **FIRST CONTACT:**
 3. **INTERVIEW:**
