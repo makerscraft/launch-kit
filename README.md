@@ -63,9 +63,9 @@ Here is the detailed process to onboard a candidate:
 
 6. **ACOMPTE / DOWN PAYMENT:** the card stay in this list until you received the down payment.
 
-  - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:_** when you receive the payment you can drag & drop the card in the GO list.
+  - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:** when you receive the payment you can drag & drop the card in the GO list.
 
-7. **GO:** it's the GO list!!!
+7. **GO:** Well, it's the GO list!!!
 
 8. **LEAD FUTUR:** people you should recontact later.
 
