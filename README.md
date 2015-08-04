@@ -63,7 +63,7 @@ Here is the detailed onboarding process:
 
 - **ACOMPTE / DEPOSIT:** the card stays in this list until you received the deposit.
 
-  - **_From_ ACOMPTE/DOWN PAYMENT _to_ GO:** when you receive the payment you can **drag & drop** the card in the GO list.
+  - **_From_ DEPOSIT _to_ GO:** when you receive the payment you can **drag & drop** the card in the GO list.
 
 - **GO:** Well, this is it!!!
 
