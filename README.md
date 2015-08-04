@@ -26,7 +26,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 There is a lot of magic & automation in there :)
 
-Each session has a dedicated Trello board linked to the application page (lewagon.org/apply).
+Each session has a dedicated Trello board linked to the website application page.
 
 This Trello board is always the same with the same lists.
 
@@ -57,15 +57,19 @@ Here is the detailed process to onboard a candidate:
 
 <img src="images/codecademy.png">
 
-5. **CONTRAT:**
+5. **CONTRAT:** the card stay in this list until the contract is signed.
 
-6. **ACOMPTE / DOWN PAYMENT:**
+  - **_From CONTRACT to ACOMPTE/DOWN PAYMENT:_** When the contract is signed, you click on the blue label into the card (signed contract) and you drag & drop the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the down payment.
 
-7. **GO:**
+6. **ACOMPTE / DOWN PAYMENT:** the card stay in this list until you received the down payment.
 
-8. **LEAD FUTUR:**
+  - **_From ACOMPTE/DOWN PAYMENT to GO:_** when you receive the payment you can drag & drop the card in the GO list.
 
-8. **NO GO:**
+7. **GO:** it's the GO list!!!
+
+8. **LEAD FUTUR:** people you should recontact later.
+
+9. **NO GO:** people you shouldn't recontact later ...
 
 
 ## 1s batch is live !
