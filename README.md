@@ -55,7 +55,7 @@ Here is the detailed onboarding process:
 
 4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
 
-<img src="images/codecademy.png">
+![codecademy list](images/codecademy.png)
 
 5. **CONTRAT:** the card stays in this list until the contract is signed.
 
