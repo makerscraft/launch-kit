@@ -51,12 +51,18 @@ Here is the detailed process to onboard a candidate:
 
   - **_From INTERVIEW to LEAD FUTUR:_** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
 
-4. **CODECADEMY:** the card stay in this list until the candidate has finished theh Ruby track. When he does, thanks to the bot, a green label appears on his card.
+4. **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card.
+
+<img src="images/codecademy.png">
 
 5. **CONTRAT:**
+
 6. **ACOMPTE / DOWN PAYMENT:**
+
 7. **GO:**
+
 8. **LEAD FUTUR:**
+
 8. **NO GO:**
 
 
