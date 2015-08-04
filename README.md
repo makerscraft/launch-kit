@@ -28,13 +28,14 @@ There is a lot of magic & automation in there :)
 
 Each session has a dedicated Trello board linked to the application page (lewagon.org/apply).
 This Trello board is always the same with the same lists.
-
-Here is the detailed process to onboard a candidate:
-
-1. **INBOX:** for each application, a card is created in this list when the candidate fill the form to apply and validate it.
+For each application, a card is created in the INBOX list when the candidate fill the form to apply and validate it.
 
 <img src="images/inbox.png">
 <img src="images/card.png">
+
+Here is the detailed process to onboard a candidate:
+
+1. **INBOX:** you'll find the recent applications
 
   - **_From INBOX to FIRST CONTACT:_** have a look on the content of the card. If it's a serious candidate, drag & drop his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
