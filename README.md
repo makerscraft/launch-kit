@@ -35,7 +35,7 @@ Here is the detailed process to onboard a candidate:
 <img src="images/inbox.png">
 <img src="images/card.png">
 
-  - **From inbox to first contact:**
+    * **From inbox to first contact:**
 
 2. **FIRST CONTACT:**
 3. **INTERVIEW:**
