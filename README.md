@@ -57,7 +57,7 @@ Here is the detailed onboarding process:
 
 <img src="images/codecademy.png">
 
-5. **CONTRAT:** the card stay in this list until the contract is signed.
+5. **CONTRAT:** the card stays in this list until the contract is signed.
 
   - **_From_ CONTRACT _to_ ACOMPTE/DEPOSIT:** When the contract is signed, you click on the blue label into the card (signed contract) and you **drag & drop** the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on the local legislation).
 
