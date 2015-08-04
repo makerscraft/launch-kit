@@ -24,13 +24,13 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 ## Application process
 
-We deeply improve the application process automation.
+We deeply improved the application process automation.
 Each session has a dedicated Trello board linked to the application page (lewagon.org/apply).
 This Trello board is always the same with the same lists.
 
 Here is the detailed process for onboarding a candidate:
 
-**1. INBOX:**
+**1. INBOX:** some text
 **2. FIRST CONTACT:**
 **3. INTERVIEW:**
 **4. CODECADEMY:**
