@@ -22,6 +22,24 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 - [Workshops (keynotes + videos)](https://github.com/lewagon/launch-kit/tree/master/workshops)
 - [Print](https://github.com/lewagon/design/tree/master/guidelines/print): need some stickers for your workshops? some flyers, business cards?
 
+## Application process
+
+We deeply improve the application process automation.
+Each session has a dedicated Trello board linked to the application page (lewagon.org/apply).
+This Trello board is always the same with the same lists.
+
+Here is the detailed process for onboarding a candidate:
+
+**1. INBOX:**
+**2. FIRST CONTACT:**
+**3. INTERVIEW:**
+**4. CODECADEMY:**
+**5. CONTRAT:**
+**6. ACOMPTE / DOWN PAYMENT:**
+**7. GO:**
+**8. LEAD FUTUR:**
+**8. NO GO:**
+
 
 ## 1s batch is live !
 
