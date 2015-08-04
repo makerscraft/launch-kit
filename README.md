@@ -49,7 +49,7 @@ Here is the detailed process to onboard a candidate:
 
   - **_From_ INTERVIEW _to_ CODECADEMY:** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). Drag & drop his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions. The email ask for his Codecademy username because a little homemade bot gonna tell us when he's done with the track.
 
-  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit the card goes to NO GO
+  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit, the card goes to NO GO
 
   - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
 
