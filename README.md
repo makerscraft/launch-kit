@@ -71,6 +71,10 @@ Here is the detailed process to onboard a candidate:
 
 9. **NO GO:** people you shouldn't recontact later ...
 
+_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign we will implement this solution to improve the automation after the first batch.
+
+And talking about the 1st batch...
+
 
 ## 1s batch is live !
 
