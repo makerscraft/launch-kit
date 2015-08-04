@@ -32,7 +32,8 @@ Here is the detailed process to onboard a candidate:
 
 1. **INBOX:** for each application, a card is created in this list.
 
-<img src="images/card.png"> <img src="images/inbox.png">
+<img src="images/inbox.png">
+<img src="images/card.png">
 
 2. **FIRST CONTACT:**
 3. **INTERVIEW:**
