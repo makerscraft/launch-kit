@@ -25,6 +25,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 ## Application process
 
 There is a lot of magic & automation in there :)
+
 Each session has a dedicated Trello board linked to the application page (lewagon.org/apply).
 This Trello board is always the same with the same lists.
 
@@ -35,10 +36,14 @@ Here is the detailed process to onboard a candidate:
 <img src="images/inbox.png">
 <img src="images/card.png">
 
-  - **_From inbox to first contact:_**
+  - **_From INBOX to FIRST CONTACT:_** have a look on the content of the card. If it's a serious candidate, drag & drop his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
-2. **FIRST CONTACT:**
-3. **INTERVIEW:**
+2. **FIRST CONTACT:** the candidate stay in this list until he books an itw.
+
+3. **INTERVIEW:** in this list you'll find all your future interviews.
+
+  - **_From INTERVIEW to CODECADEMY:_**
+
 4. **CODECADEMY:**
 5. **CONTRAT:**
 6. **ACOMPTE / DOWN PAYMENT:**
