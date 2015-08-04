@@ -32,13 +32,13 @@ Here is the detailed process for onboarding a candidate:
 
 1. **INBOX:** some text
 2. **FIRST CONTACT:**
-**3. INTERVIEW:**
-**4. CODECADEMY:**
-**5. CONTRAT:**
-**6. ACOMPTE / DOWN PAYMENT:**
-**7. GO:**
-**8. LEAD FUTUR:**
-**8. NO GO:**
+3. **INTERVIEW:**
+4. **CODECADEMY:**
+5. **CONTRAT:**
+6. **ACOMPTE / DOWN PAYMENT:**
+7. **GO:**
+8. **LEAD FUTUR:**
+8. **NO GO:**
 
 
 ## 1s batch is live !
