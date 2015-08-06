@@ -24,7 +24,7 @@ Now a bit of help for running workshops and pitching Le Wagon's program.
 
 ## Application process
 
-We've built a custom *application tool* based on trello to handle candidates, interviews, preparation work, payment, bill publishing.. Every step of the onboarding is automated. You just have to [respect the process](https://github.com/lewagon/launch-kit/tree/master/application)!
+We've built a custom *application tool* based on trello to handle candidates, interviews, preparation work, payment, bill publishing.. Every step of the onboarding is automated. You just have to [respect the process](https://github.com/lewagon/launch-kit/tree/master/application).
 
 ## 1s batch is live !
 
