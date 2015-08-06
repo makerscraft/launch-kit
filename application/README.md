@@ -29,29 +29,29 @@ Here is the detailed onboarding process.
 
   - **_From_ INTERVIEW _to_ CODECADEMY:** after the interview, if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). **Drag & drop** his card in the CODECADEMY list. This will **automatically** send him an email with all the instructions. This email asks for his Codecademy username. Then, our home-made bot can automatically check his score every day and detect when the candidate is done with the ruby track.
 
-  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit, the card goes to NO GO.
+  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit, move the card to NO GO.
 
-  - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fits and wants, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR.
+  - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fits and wants, but can't (too short notice, family troubles ...) move the card to LEAD FUTUR.
 
-- **CODECADEMY:** the card stays in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) for eSignatures. For the first batch, it's overkill to plug HelloSign so you'll have to send the contract by mail. We'll help you plug HelloSign from batch #2.
+- **CODECADEMY:** the card stays in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) for e-signatures in Paris. For your first batch, it's a bit overkill to plug HelloSign so you will have to send the contract manually by mail. We'll plug HelloSign starting with batch #2.
 
 ![codecademy list](images/codecademy.png)
 
 - **CONTRACT:** the card stays in this list until the contract is signed.
 
-  - **_From_ CONTRACT _to_ DEPOSIT:** When the contract is signed, you click on the blue label inside the card (signed contract) and you **drag & drop** the card from CONTRAT to ACOMPTE. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on the local legislation).
+  - **_From_ CONTRACT _to_ DEPOSIT:** When the contract is signed, click on the blue label inside the card (signed contract) and  **drag & drop** the card from CONTRACT to DEPOSIT. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on local legislation).
 
 - **DEPOSIT:** the card stays in this list until you receive the deposit.
 
   - **_From_ DEPOSIT _to_ GO:** when you receive the payment you can **drag & drop** the card in the GO list.
 
-- **GO:** Well, this is it!!!
+- **GO:** Well, this is it!
 
 - **LEAD FUTUR:** people you should recontact later.
 
 - **NO GO:** people you shouldn't recontact later...
 
-_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign, we'll implement it to improve the automation after batch #1.
+_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign, we will plug it to improve the automation starting with batch #2.
 
 ## Running the interview
 
