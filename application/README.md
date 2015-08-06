@@ -1,16 +1,12 @@
-## Vocabulary
+## 1 Batch = 1 Trello board
 
 **A batch** is one session of the fullstack program which means one city and one period of time. Example: **batch #3 Paris, July-August 2014**.
-
-## Process
-
-A lot of automation here:
 
 - Each batch has a dedicated Trello board linked to the website apply form.
 - This Trello board respects a canvas with pre-defined lists.
 - Every list has a precise role to play, don't change it.
 
-### First contact
+## First contact
 
 When a candidate applies for a precise batch, a card is created in the **INBOX** list, the first one. You can check the candidate's info openning the card to check his age, motivation, phone number, mail, etc...
 
@@ -18,6 +14,8 @@ When a candidate applies for a precise batch, a card is created in the **INBOX**
 ![card](images/card.png)
 
 _Tip:_ if you're using Chrome please install the [CardCounter extension](https://chrome.google.com/webstore/detail/cardcounter-for-trello/miejdnaildjcmahbhmfngfdoficmkdhi?hl=en), very useful to see how many candidates you have in every list of the application funnel.
+
+## Process
 
 Here is the detailed onboarding process.
 
