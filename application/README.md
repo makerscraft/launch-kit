@@ -23,9 +23,9 @@ Here is the detailed onboarding process.
 
 - **INBOX:** new applications.
 
-  - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, **drag & drop** his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an itw directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
+  - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, **drag & drop** his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an interview directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
-- **FIRST CONTACT:** the candidate stays in this list until he books an itw.
+- **FIRST CONTACT:** the candidate stays in this list until he books an interview.
 
 - **INTERVIEW:** in this list you'll find all your future interviewees.
 
