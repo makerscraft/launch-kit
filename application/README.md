@@ -52,3 +52,13 @@ Here is the detailed onboarding process.
 - **NO GO:** people you shouldn't recontact later...
 
 _Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign, we'll implement it to improve the automation after batch #1.
+
+## Running the interview
+
+Two things to check:
+
+- **Expectations**: Le Wagon is a hard and challenging program. Students will start by learning the basics of code, OOP and software architecture during the 3 first weeks. Very interesting for sure, but that can be depressing for people with wrong expectations! Don't accept students who just want to "build their project but don't really care about code", or people who heard  that code is a hot topic and want to "know more about it". You need 300%-involved candidates, who deeply want to learn programming because they want to use it in their everyday-life, for finding a cool job or building products. People with wrong expectations will give up quickly because they'll find the program too hard and not "rewarding enough" during the first weeks.
+
+- **Smartness & Passion**: Le Wagon is not reserved to Mathematics PhD. However, the program is intense and candidates should be able to grasp new concepts quickly. It's 50% about fighting-spirit & motivation, 50% about brain skills.
+
+- **Sociability**: a lot of Le Wagon's magic comes from team spirit in each batch. For that you need sociable people, asking questions during morning talks when they don't get it, passionated about explaining to others what they've just understood, etc.. Don't neglect that part duing the interview.
