@@ -59,4 +59,4 @@ _Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's 
 
 - **Smartness & Passion**: Le Wagon is not reserved to Mathematics PhD. However, the program is intense and candidates should be able to grasp new concepts quickly. It's 50% about fighting-spirit & motivation, 50% about brain skills.
 
-- **Sociability**: a lot of Le Wagon's magic comes from team spirit in each batch. For that you need sociable people, asking questions during morning talks when they don't get it, passionated about explaining to others what they've just understood, etc.. Don't neglect that part duing the interview.
+- **Sociability**: a lot of Le Wagon's magic comes from team spirit in each batch. For that you need sociable people, asking questions during morning talks when they don't get it, re-explaining and sharing things with their buddies. Don't neglect this part during the interview.
