@@ -44,25 +44,22 @@ Of course, you are the project owner, you drive your city, your community, your 
 Here is a list of things that don't really fit with collaboration :
 
 - **"Double-brandings"** with expressions such as **Le Wagon by ...** or **... by Le Wagon**. If you launch Le Wagon, it's Le Wagon and adding an extra brand is just weakening your communication and blurring the message.
-- **"External landing page"**. Instead, you should make a pull request to our website city page so that every one can benefit from it. That's our spirit !
+- **"External landing page"**. You should not build independent websites or landing pages. If you're note happy with your city page on our website, just make a pull request to improve it so that it benefits to everyone. That's our spirit !
 
 Here is a thing that really fits with collaboration :
 
-- **"Pull requests"**. Making PRs on the content of our pedagogical platform, or on the graphical assets of our design repo, that's what collaboration is about!
+- **"Pull requests"**. Making PRs on the content of our pedagogical platform, on our graphical assets, on our website. that's what collaboration is about.
 
 ### Energy & pragmatism
 
 We know launching a fullstack program is not an easy task.. But the strategy remains quite simple at the end
 
 - Animate cool & free workshops (not so hard to find tech spots interested!)
+- Communicate a lot using mainly local ecosystems.
+- Wait for candidates to apply.
 
-The objective is reachable unlike so many startups that struggle finding their product/market fit..
+Think about all these startups that will never find customers.. Launching Le Wagon is a matter of 3 to 6 months if you surpass yourself. 
 
-Hence, we'll be 300% ready to help you, give you advice, feedbacks, speak about pedagogy, content etc.. but we don't want to partner with **"this is complicated"-people** !
+Le Wagon's staff will be 300% supportive. We'll give you advice, feedbacks, speak about pedagogy, skype with teachers, send you pitch deck, whatever you need. But we don't want to partner with **"this is complicated"-people** !
 
-Launching a market place is complicated. Launching Le Wagon is not. It's exhausting, it requires a lot of energy, enthusiasm & passion. But it's not complicated :) That's a second value that we should all share: **simplicity**.
-
-
-
-
-
+Launching a market place is complicated. Launching Le Wagon is not. It's exhausting, it requires a lot of energy, enthusiasm & passion. But it's not that complicated :) And we should just go for it.
