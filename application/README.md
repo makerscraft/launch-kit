@@ -8,7 +8,7 @@
 
 ## First contact
 
-When a candidate applies for a precise batch, a card is created in the **INBOX** list of the associated board, the first list. You can check the candidate's info openning the card to check his age, motivation, phone number, mail, etc...
+When a candidate applies for a precise batch, a card is created in the **INBOX** list of the associated board, i.e. the first list. You can open the candidate's card to check his age, motivation, phone number, mail, etc...
 
 ![inbox list](images/inbox.png)
 ![card](images/card.png)
@@ -23,25 +23,25 @@ Here is the detailed onboarding process.
 
   - **_From_ INBOX _to_ FIRST CONTACT:** have a look on the content of the card. If it's a serious candidate, **drag & drop** his card in the FIRST CONTACT list. This will **automatically** send an email to the candidate. He'll be able to book an interview directly on your agenda using [Acuity Scheduling](https://acuityscheduling.com/).
 
-- **FIRST CONTACT:** the candidate stays in this list until he books an interview.
+- **FIRST CONTACT:** the candidate stays in this list until he books an interview. When he does, the card **automatically** moves to the INTERVIEW list (no need to drag & drop it).
 
 - **INTERVIEW:** in this list you'll find all your future interviewees.
 
-  - **_From_ INTERVIEW _to_ CODECADEMY:** if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). **Drag & drop** his card in the CODECADEMY list and this will **automatically** send him an email with all the instructions (this email ask for his Codecademy username as our little homemade bot gonna tell us when he's done with the track.).
+  - **_From_ INTERVIEW _to_ CODECADEMY:** after the interview, if you feel that the candidate is a good fit, ask him to complete the Ruby track on Codecademy in 9/10 hours (max!). **Drag & drop** his card in the CODECADEMY list. This will **automatically** send him an email with all the instructions. This email asks for his Codecademy username. Then, our home-made bot can automatically check his score every day and detect when the candidate is done with the ruby track.
 
-  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit, the card goes to NO GO
+  - **_From_ INTERVIEW _to_ NO GO:** If the candidate doesn't fit, the card goes to NO GO.
 
-  - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fit and want, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR
+  - **_From_ INTERVIEW _to_ LEAD FUTUR:** If the candidate fits and wants, but can't (agenda difficulties, family troubles ...) the card goes to LEAD FUTUR.
 
-- **CODECADEMY:** the card stay in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) but for the first batch you won't need to implement it.
+- **CODECADEMY:** the card stays in this list until the candidate has finished the Ruby track. When he does, thanks to the bot, a green label appears on his card. If it's green, it's ready to go! You can **drag & drop** the candidate card from the CODECADEMY to the CONTRACT list and send him the contract. We use [HelloSign](https://www.hellosign.com/) for eSignatures. For the first batch, it's overkill to plug HelloSign so you'll have to send the contract by mail. We'll help you plug HelloSign from batch #2.
 
 ![codecademy list](images/codecademy.png)
 
-- **CONTRAT:** the card stays in this list until the contract is signed.
+- **CONTRACT:** the card stays in this list until the contract is signed.
 
-  - **_From_ CONTRACT _to_ ACOMPTE/DEPOSIT:** When the contract is signed, you click on the blue label into the card (signed contract) and you **drag & drop** the card from CONTRACT to ACOMPTE. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on the local legislation).
+  - **_From_ CONTRACT _to_ DEPOSIT:** When the contract is signed, you click on the blue label inside the card (signed contract) and you **drag & drop** the card from CONTRAT to ACOMPTE. You can now send your IBAN and ask for the deposit (1/3 in Paris but it depends on the local legislation).
 
-- **ACOMPTE / DEPOSIT:** the card stays in this list until you received the deposit.
+- **DEPOSIT:** the card stays in this list until you receive the deposit.
 
   - **_From_ DEPOSIT _to_ GO:** when you receive the payment you can **drag & drop** the card in the GO list.
 
@@ -49,6 +49,6 @@ Here is the detailed onboarding process.
 
 - **LEAD FUTUR:** people you should recontact later.
 
-- **NO GO:** people you shouldn't recontact later ...
+- **NO GO:** people you shouldn't recontact later...
 
-_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign well implement it to improve the automation after the first batch.
+_Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's great and you should use it, but as for HelloSign, we'll implement it to improve the automation after batch #1.
