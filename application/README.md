@@ -12,7 +12,7 @@ A lot of automation here:
 
 ### First contact
 
-When a candidate fills up the form for precise batch, a card is created in the **INBOX** list, the first one. You can check the candidates info openning the card, to get his age, phone number, mail, motivation.
+When a candidate applies for a precise batch, a card is created in the **INBOX** list, the first one. You can check the candidates info openning the card, to get his age, phone number, mail, motivation.
 
 ![inbox list](images/inbox.png)
 ![card](images/card.png)
