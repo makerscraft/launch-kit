@@ -87,12 +87,9 @@ _Important_: our billing solution is [Zoho Books](https://books.zoho.com). It's 
 
 ### Typical day
 
-- **9h00-10h30**: morning lecture by the lead teacher with lots of practical live-code to understand the concepts on real-life example.
+- **9h00-10h30**: morning lecture by the lead teacher with lots of practical live-codes to understand the concepts on real-life examples.
 - **10h30-12h30**: pair-programming on challenges of our home-made platform, pushing your solution to get automatic correction.
-- **14h00-17h30**: End of the challenges on the platform.
+- **14h00-17h30**: finishing your challenges on the platform with your pair-programming buddy.
 -  **17h30-19h00**: "live-code session". Either a teacher or a student will pick one of the challenges of the day (or invent a new one with the teacher) and will code his own solution from scratch in front of the class on the giant projector. When doing so he has to explain at loud what he is doing and explain his methodology and the way he thinks about his program.
 
 Every day, there's 5 to 10 different challenges with their test suite, and additional optional exercises for the most rapid students. Overall more than 300 challenges and 45 lectures of 1h30 on fundamental topics of web-development.
-
-
-
